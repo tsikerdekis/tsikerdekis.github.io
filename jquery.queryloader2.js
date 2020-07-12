@@ -221,7 +221,7 @@
                 color: qLoptions.barColor
             }).appendTo(qLoverlay);
 			
-			gif = $('<div id="gif"><img src="/images/ajax-loader.gif"></div>').appendTo(qLoverlay);
+			gif = $('<div id="gif"><img src="ajax-loader.gif"></div>').appendTo(qLoverlay);
 			
 			
 			
