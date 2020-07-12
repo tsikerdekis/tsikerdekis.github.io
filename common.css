@@ -178,6 +178,7 @@ div.mp11 div.box div.con p.logo {
 	position:absolute;
 	top:36px;
 	left:30px;
+	font-size: 24px;
 }
 
 div.mp11 div.box div.con p.txt {
@@ -253,6 +254,7 @@ div.mp7 div.box div.con p.logo {
 	position:absolute;
 	top:36px;
 	right:30px;
+	font-size: 24px;
 }
 
 div.mp7 div.box div.con p.txt {
